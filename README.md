@@ -84,7 +84,7 @@ Use the AI agent to process a natural language query by sending a POST request t
 
 ## License
 
-This project does not specify a license in the codebase. Make sure to include a LICENSE file in your repository to define how your code can be used by others.
+This project is licensed under the terms of the [MIT License](https://github.com/KrishiDevani15/CRUD_Ai_Agent/blob/main/LICENSE).
 
 ---
 
